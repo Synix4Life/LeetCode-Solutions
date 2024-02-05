@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 ![](https://img.shields.io/badge/Easy-18-darkgreen?style=flat)
-![](https://img.shields.io/badge/Medium-4-yellow?style=flat)
+![](https://img.shields.io/badge/Medium-5-yellow?style=flat)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat)
 
 ---
