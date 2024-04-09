@@ -2,7 +2,7 @@
 
 <h4>Solved by Difficultiy</h4>
 
-![](https://img.shields.io/badge/Easy-22-darkgreen?style=flat)
+![](https://img.shields.io/badge/Easy-23-darkgreen?style=flat)
 ![](https://img.shields.io/badge/Medium-9-yellow?style=flat)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat)
 
@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Python-7-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/C-3-%2300599C.svg?style=flat&logo=c)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
+![](https://img.shields.io/badge/PostgreSQL-1-violet?style=flat&logo=postgresql&logoColor=violet)
 
 ---
 
