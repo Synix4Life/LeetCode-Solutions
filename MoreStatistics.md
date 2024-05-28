@@ -1,6 +1,6 @@
 ## More Stats about the Leetcode Solutions if you're interested
 
-![LastUpdated](https://img.shields.io/badge/LatestAddition-27.05.2024-purple?style=flat)
+![LastUpdated](https://img.shields.io/badge/LatestAddition-28.05.2024-purple?style=flat)
 
 ---
 
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-4-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-3-%2300599C.svg?style=flat&logo=c)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
+![](https://img.shields.io/badge/C++-1-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
 
 ---
 ---
@@ -29,6 +30,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-3-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/Python-2-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
+![](https://img.shields.io/badge/C++-1-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
 
 <h4>Medium Solved by Language</h4>
 

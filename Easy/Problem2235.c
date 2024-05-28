@@ -3,7 +3,6 @@
 * Memory: 6.10MB -> Beats 72.96% of user with C
 */
 
-
 int sum(int num1, int num2) {
     return num1+num2;
 }
