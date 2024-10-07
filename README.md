@@ -2,7 +2,7 @@
 
 <h4>Solved by Difficultiy</h4>
 
-![](https://img.shields.io/badge/Easy-27-darkgreen?style=flat)
+![](https://img.shields.io/badge/Easy-28-darkgreen?style=flat)
 ![](https://img.shields.io/badge/Medium-11-yellow?style=flat)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat)
 
@@ -10,7 +10,7 @@
 
 <h4>Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-26-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/Java-27-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
 ![](https://img.shields.io/badge/Python-9-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-4-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-3-%2300599C.svg?style=flat&logo=c)
