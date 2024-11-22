@@ -6,7 +6,7 @@
 
 <h4>Solved by Difficultiy</h4>
 
-![](https://img.shields.io/badge/Easy-32-default?style=flat)
+![](https://img.shields.io/badge/Easy-34-default?style=flat)
 ![](https://img.shields.io/badge/Medium-13-yellow?style=flat)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat)
 
@@ -14,8 +14,8 @@
 
 <h4>Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-31-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/Python-9-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Java-32-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/Python-10-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-5-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat&logo=c)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
@@ -25,8 +25,8 @@
 ---
 <h4>Easy Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-22-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/Python-4-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Java-23-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/Python-5-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-4-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat&logo=c)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
