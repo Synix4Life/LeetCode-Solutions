@@ -10,7 +10,7 @@
 
 <h4>Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-32-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/Java-33-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
 ![](https://img.shields.io/badge/Python-10-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-5-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat&logo=c)
