@@ -1,4 +1,3 @@
-# MySQL
 # Runtime: 761ms -> Beats 51.24% of users with MySQL
 # Memory: nullMB -> Beats null% of user with PostgreSQL
 
