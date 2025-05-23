@@ -1,12 +1,12 @@
 ## More Stats about the Leetcode Solutions if you're interested
 
-![LastUpdated](https://img.shields.io/badge/LatestAddition-14.03.2025-purple?style=flat)
+![LastUpdated](https://img.shields.io/badge/LatestAddition-24.05.2025-purple?style=flat)
 
 ---
 
 <h4>Solved by Difficultiy</h4>
 
-![](https://img.shields.io/badge/Easy-48-default?style=flat)
+![](https://img.shields.io/badge/Easy-51-default?style=flat)
 ![](https://img.shields.io/badge/Medium-14-yellow?style=flat)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat)
 
@@ -14,24 +14,24 @@
 
 <h4>Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-37-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/PostgreSQL-14-violet?style=flat&logo=postgresql&logoColor=violet)
+![](https://img.shields.io/badge/Java-38-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/PostgreSQL-15-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/Python-11-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat&logo=c)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
-![](https://img.shields.io/badge/C++-1-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
+![](https://img.shields.io/badge/C++-2-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
 ![](https://img.shields.io/badge/MySQL-1-yellow?style=flat&logo=mysql&logoColor=yellow)
 
 ---
 ---
 <h4>Easy Solved by Language</h4>
 
-![](https://img.shields.io/badge/Java-27-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/PostgreSQL-13-violet?style=flat&logo=postgresql&logoColor=violet)
+![](https://img.shields.io/badge/Java-28-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![](https://img.shields.io/badge/PostgreSQL-14-violet?style=flat&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/Python-6-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat&logo=c)
+![](https://img.shields.io/badge/C++-2-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
 ![](https://img.shields.io/badge/Scala-1-red?style=flat&logo=scala&logoColor=red)
-![](https://img.shields.io/badge/C++-1-lightblue?style=flat&logo=cplusplus&logoColor=lightblue)
 ![](https://img.shields.io/badge/MySQL-1-yellow?style=flat&logo=mysql&logoColor=yellow)
 
 
