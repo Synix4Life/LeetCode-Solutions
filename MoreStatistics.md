@@ -1,13 +1,13 @@
 ## More Stats about the Leetcode Solutions if you're interested
 
-![LastUpdated](https://img.shields.io/badge/LatestAddition-14.08.2025-purple?style=flat-square)
+![LastUpdated](https://img.shields.io/badge/LatestAddition-18.08.2025-purple?style=flat-square)
 
 ---
 
 <h4>Solved by Difficultiy</h4>
 
-![](https://img.shields.io/badge/Easy-67-default?style=flat-square)
-![](https://img.shields.io/badge/Medium-15-yellow?style=flat-square)
+![](https://img.shields.io/badge/Easy-69-default?style=flat-square)
+![](https://img.shields.io/badge/Medium-16-yellow?style=flat-square)
 ![](https://img.shields.io/badge/Hard-1-red?style=flat-square)
 
 ---
@@ -15,7 +15,7 @@
 <h4>Solved by Language</h4>
 
 ![](https://img.shields.io/badge/Java-41-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/Python-21-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Python-24-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-15-violet?style=flat-square&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-5-%2300599C.svg?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/C++-2-f34b7d?style=flat-square&logo=cplusplus&logoColor=f34b7d)
@@ -28,7 +28,7 @@
 <h4>Easy Solved by Language</h4>
 
 ![](https://img.shields.io/badge/Java-31-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/Python-17-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Python-19-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PostgreSQL-14-violet?style=flat-square&logo=postgresql&logoColor=violet)
 ![](https://img.shields.io/badge/C-4-%2300599C.svg?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/C++-2-f34b7d?style=flat-square&logo=cplusplus&logoColor=f34b7d)
@@ -40,7 +40,7 @@
 <h4>Medium Solved by Language</h4>
 
 ![](https://img.shields.io/badge/Java-10-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=%23ED8B00)
-![](https://img.shields.io/badge/Python-4-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Python-5-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/C-1-%2300599C.svg?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/PostgreSQL-1-violet?style=flat-square&logo=postgresql&logoColor=violet)
 
